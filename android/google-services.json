@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53029676710",
+    "firebase_url": "https://tesbihat-21ad0.firebaseio.com",
+    "project_id": "tesbihat-21ad0",
+    "storage_bucket": "tesbihat-21ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53029676710:android:b029f6391f2d0012833667",
+        "android_client_info": {
+          "package_name": "com.example.tesbihat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53029676710-rj2sn63su7hcrp3uls9ku58qntsl5rm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxShqmjhbE4wfTs42syNgz9YPPKZVRms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53029676710-rj2sn63su7hcrp3uls9ku58qntsl5rm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
